@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I co-founded the non-profit [ChangeStream Media](https://changestreammedia.org/)
+- 🔭 I’m currently working on updating the curriculum for the [UW Certificate in Data Science](https://www.pce.uw.edu/certificates/data-science)
+- 🤔 I’m looking for help with finding a full time data science position
+- 📫 Reach me on twitter @DataCascadia 
 <!--
 **DataCascadia/DataCascadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
