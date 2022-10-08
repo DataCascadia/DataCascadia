@@ -1,4 +1,6 @@
 ### Hi, I'm Sean Koenig 👋
+<!-- <img src="profile_image.png" alt="drawing" width="200"/> -->
+#### About me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I co-founded the non-profit [ChangeStream Media](https://changestreammedia.org/)
 - 🔭 I’m currently working on updating the curriculum for the [UW Certificate in Data Science](https://www.pce.uw.edu/certificates/data-science)
